@@ -37,10 +37,8 @@ Key objectives:
 
 ---
 
-## 🔗 Live Dashboard
-
-Power BI Public Link:  
-https://app.powerbi.com/links/aZY0sC6VfJ?ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&pbi_source=linkShare
+## 📊 Live Dashboard
+[View Dashboard](https://app.powerbi.com/links/aZY0sC6VfJ?ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&pbi_source=linkShare)
 
 
 ---
