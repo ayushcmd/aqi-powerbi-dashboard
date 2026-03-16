@@ -19,6 +19,20 @@ Key objectives:
 - Understand AQI category distribution
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashbaord_Image.png)
+
+---
+
+## 🔎 Key Insights
+
+- Several metropolitan cities show consistently **higher AQI levels**
+- **PM2.5 is the dominant pollutant** contributing to poor air quality
+- Northern regions experience **more severe pollution levels**
+- Many cities frequently fall under **Moderate to Poor AQI categories**
+
+---
 
 ## 🛠️ Tools & Technologies
 
