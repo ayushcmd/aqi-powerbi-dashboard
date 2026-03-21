@@ -1,4 +1,4 @@
-# 🌫️ Air Pollution in India – 2024
+# 🌅☁️Air Pollution in India – 2024
 ### Power BI Dashboard Project
 
 This project presents an interactive **Power BI dashboard** analyzing the **Air Quality Index (AQI)** across major Indian cities and states for the year 2024.
